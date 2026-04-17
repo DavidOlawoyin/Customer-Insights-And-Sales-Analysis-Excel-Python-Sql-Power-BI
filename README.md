@@ -46,7 +46,6 @@ This project analyses customer purchasing behaviour using **Python, SQL Server, 
 * Helps optimise product offerings based on customer demand patterns
 * Drives improved decision-making through clear and actionable insights
 
-## 📊 Dashboard Preview
 
 
 
