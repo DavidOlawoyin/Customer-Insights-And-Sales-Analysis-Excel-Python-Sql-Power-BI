@@ -1,4 +1,4 @@
-# # 📊 Customer-Insights-And-Sales-Analysis-Excel-Python-Sql-Power-BI
+# # Customer-Insights-And-Sales-Analysis-Excel-Python-Sql-Power-BI
 
 This project analyses customer purchasing behaviour using **Python, SQL Server, and Power BI** to uncover trends, patterns, and key insights that support data-driven decision-making. It provides a comprehensive view of customer demographics, subscription patterns, sales performance, and product preferences.
 
